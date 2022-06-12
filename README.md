@@ -17,5 +17,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="37"/>
 </p>
-![](https://raw.githubusercontent.com/gourabstudio/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/gourabstudio/github-stats/master/generated/overview.svg#gh-light-mode-only)
